@@ -1,4 +1,6 @@
 ---
+pages:
+- abc2.html
 hide_body: true
 is_partial: false
 fields:
