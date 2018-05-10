@@ -28,3 +28,8 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: boolean
+  name: werrwerwerw
+  label: werr
+  description: werwer
+  hidden: false
